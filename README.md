@@ -3,7 +3,7 @@
 I am Riko Chair Nugroho, a fresh graduate from information system major at UPN Veteran Jakarta with a GPA 3.78 out of 4.00.
 I've experience with Javascript using ReactJS framework. I always want to learn new things to achieve goals. I am capable of working well in a team and on my own.
 
-I'm currently looking for a job for Front-end Developer position, and I'm currently learning more about ReactJS and start learning VueJS.
+I'm currently learning more about ReactJS and start learning VueJS.
 
 How to reach me :
 
