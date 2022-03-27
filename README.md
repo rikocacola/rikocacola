@@ -7,7 +7,7 @@ How to reach me :
 
 email : riko.chair@gmail.com
 Phone : +62 878-7518-5577
-website : richnugroho.com
+website : https://richnugroho.com
 
 
 
