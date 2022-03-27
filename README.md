@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-I am Riko Chair Nugroho, a fresh graduate from information system major at UPN Veteran Jakarta with a GPA 3.78 out of 4.00.
-I've experience with Javascript using ReactJS framework. I always want to learn new things to achieve goals. I am capable of working well in a team and on my own.
-
-I'm currently learning more about ReactJS and start learning VueJS.
+My Name is Riko Chair Nugroho
+I'm a Front end Developer with experience using Javascript and React JS.
 
 How to reach me :
 
 email : riko.chair@gmail.com
 Phone : +62 878-7518-5577
-website : rikocacola.site
+website : richnugroho.com
 
 
 
